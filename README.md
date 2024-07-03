@@ -33,7 +33,7 @@ Contributions are welcome! If you have any ideas or improvements, feel free to s
 
 If you have any questions or would like to reach out to me regarding the projects or any other matter, you can contact me at:
 
-- Email: [mts.sabyasachikumar2@gmail.com](mailto:sabyasachikumar2@gmail.com)
+- Email: [sabyasachikumar2@gmail.com](mailto:sabyasachikumar2@gmail.com)
 - LinkedIn: [Sabyasachi Kumar]([https://www.linkedin.com/in/gulshan-sharma-coder/](https://www.linkedin.com/in/sabyasachi-kumar-5a423b226/))
 
 ## License
