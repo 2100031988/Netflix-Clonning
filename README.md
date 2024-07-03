@@ -1,6 +1,6 @@
 # Netflix-Homepage-Clone
 
-This repository contains the source code of Netflix Homepage Clone that is assigned to me during my internship at Bharat_Intern.
+This repository contains the source code of Netflix Homepage Clone.
 
 The Netflix Home Page Clone project aims to replicate the user interface of the popular streaming platform Netflix. It involves creating a responsive web page that mimics the layout, design, and functionality of the Netflix homepage. The project utilizes HTML, CSS, and JavaScript to build the user interface and provide interactive features such as browsing different movie categories, playing trailers, and navigating through movie suggestions.
 
