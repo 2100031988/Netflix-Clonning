@@ -36,8 +36,8 @@ If you have any questions or would like to reach out to me regarding the project
 - Email: [sabyasachikumar2@gmail.com](mailto:sabyasachikumar2@gmail.com)
 - LinkedIn: [Sabyasachi Kumar]([https://www.linkedin.com/in/gulshan-sharma-coder/](https://www.linkedin.com/in/sabyasachi-kumar-5a423b226/))
 
-## License
+## 📜 License
 This project is licensed under the MIT License.
 
-## Copyright
+## ©️ Copyright
 © 2024 Sabyasachi Kumar. All rights reserved.
